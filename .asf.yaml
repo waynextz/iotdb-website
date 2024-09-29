@@ -20,6 +20,3 @@
 staging:
   profile: ~
   whoami:  asf-staging
-
-publish:
-  whoami:  asf-site
