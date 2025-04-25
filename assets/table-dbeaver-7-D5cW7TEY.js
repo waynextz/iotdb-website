@@ -1,1 +1,0 @@
-const e="/img/table-dbeaver-1.png",a="/img/table-dbeaver-2.png",t="/img/table-dbeaver-3.png",s="/img/table-dbeaver-4.png",b="/img/table-dbeaver-5.png",o="/img/table-dbeaver-6.png",p="/img/table-dbeaver-7.png";export{e as _,a,t as b,s as c,b as d,o as e,p as f};
