@@ -1,1 +1,0 @@
-const e="/img/UserGuide/Ecosystem-Integration/DBeaver/03.png",s="/img/UserGuide/Ecosystem-Integration/DBeaver/05.png",t="/img/UserGuide/Ecosystem-Integration/DBeaver/07.png",o="/img/UserGuide/Ecosystem-Integration/DBeaver/08.png",r="/img/UserGuide/Ecosystem-Integration/DBeaver/09.png";export{e as _,s as a,t as b,o as c,r as d};

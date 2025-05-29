@@ -1,1 +1,0 @@
-const s="/img/Data-model-02.png",o="/img/data-modeling04.png",m="/img/Modeling-scheme05.png",g="/img/data-modeling06.png",i="/img/data-modeling07.png",n="/img/Modeling-scheme06.png";export{s as _,o as a,m as b,g as c,i as d,n as e};
